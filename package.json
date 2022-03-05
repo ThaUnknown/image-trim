@@ -1,0 +1,21 @@
+{
+  "name": "image-trim",
+  "version": "1.0.0",
+  "description": "Trim black/whitespace from around an image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trim",
+    "image",
+    "whitespace",
+    "border",
+    "crop"
+  ],
+  "standard":{
+    "env": "browser"
+  },
+  "author": "ThaUnknown_",
+  "license": "MIT"
+}
